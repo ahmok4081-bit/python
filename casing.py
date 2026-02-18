@@ -1,0 +1,5 @@
+x = float("3")
+print(x)
+y = int(2.8)
+print(y)
+w = float()
